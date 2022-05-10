@@ -1,0 +1,23 @@
+.btn {
+    border-radius: 2rem;
+}
+
+.btn-danger {
+    background-color: var(--danger);
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: var(--primary);
+    color: #fff;
+}
+
+.btn-gray {
+    background-color: var(--gray);
+    color: #fff;
+}
+
+.btn-black {
+    background-color: #000;
+    color: #fff;
+}
