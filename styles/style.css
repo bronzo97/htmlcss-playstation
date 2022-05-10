@@ -11,3 +11,14 @@
 .reset-p {
     padding: 0;
 }
+
+.bg-jumbo {
+    background-image: url("../img/jumbo-bg.png");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.col img {
+    width: 100%;
+}

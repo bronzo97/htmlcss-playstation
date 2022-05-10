@@ -2,11 +2,6 @@
     border-radius: 2rem;
 }
 
-.btn-danger {
-    background-color: var(--danger);
-    color: #fff;
-}
-
 .btn-primary {
     background-color: var(--primary);
     color: #fff;
