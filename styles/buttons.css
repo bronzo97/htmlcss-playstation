@@ -2,11 +2,6 @@
     border-radius: 2rem;
 }
 
-.btn-primary {
-    background-color: var(--primary);
-    color: #fff;
-}
-
 .btn-gray {
     background-color: var(--gray);
     color: #fff;

@@ -12,13 +12,44 @@
     padding: 0;
 }
 
+/* Main */
+
 .bg-jumbo {
     background-image: url("../img/jumbo-bg.png");
-    height: 100vh;
-    background-position: center;
-    background-repeat: no-repeat;
+    min-height: 500px;
+    background-position: top;
+    margin-top: 98px;
+    position: relative;
+}
+
+.jumbotron-content {
+    width: 80%;
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    color: #fff;
 }
 
 .col img {
     width: 100%;
 }
+
+.card-border {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 2px solid transparent;
+}
+
+.card-border:hover {
+    border-bottom: 2px solid #000;
+}
+
+.card {
+    height: 100%;
+}
+
+/* .card img {
+    height: 60px;
+    width: 60px;
+} */
