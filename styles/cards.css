@@ -1,0 +1,23 @@
+.card-border {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 2px solid transparent;
+}
+
+.card-border:hover {
+    border-bottom: 2px solid #000;
+}
+
+.card {
+    height: 100%;
+}
+
+.my-card {
+    background-color: transparent;
+    border: 0;
+}
+
+.my-card img {
+    border-radius: 20px;
+}

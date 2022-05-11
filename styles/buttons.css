@@ -3,11 +3,16 @@
 }
 
 .btn-gray {
-    background-color: var(--gray);
-    color: #fff;
+    background-color: #E5E5E5;
+    color: var(--bs-primary);
 }
 
 .btn-black {
     background-color: #000;
     color: #fff;
+}
+
+.btn-white {
+    background-color: #fff;
+    color: #000;
 }

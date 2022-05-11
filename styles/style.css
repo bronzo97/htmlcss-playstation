@@ -34,35 +34,6 @@
     width: 100%;
 }
 
-.card-border {
-    border-top: 0;
-    border-left: 0;
-    border-right: 0;
-    border-bottom: 2px solid transparent;
-}
-
-.card-border:hover {
-    border-bottom: 2px solid #000;
-}
-
-.card {
-    height: 100%;
-}
-
-.my-card {
-    background-color: transparent;
-    border: 0;
-}
-
-.my-card img {
-    border-radius: 20px;
-}
-
-/* .card img {
-    height: 60px;
-    width: 60px;
-} */
-
 /* It takes two */
 
 .it-takes-2 {
@@ -80,4 +51,27 @@
     color: #fff;
 }
 
+/* Playstation plus */
 
+.p-plus {
+    background-color: var(--gray);
+}
+
+/* Playstation now */
+
+.ps-now {
+    background-color: var(--dark-blue);
+    color: #fff;
+}
+
+/* Social */
+
+.social {
+    text-align: center;
+}
+
+.social img {
+    width: 100px;
+}
+
+/* Footer */
