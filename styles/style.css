@@ -2,6 +2,7 @@
 @import url("header.css");
 @import url("cards.css");
 @import url("buttons.css");
+@import url("mediaqueries.css");
 
 
 .reset-m {
@@ -18,12 +19,16 @@ footer {
 }
 
 h2 {
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 h3,
 h4 {
     margin-bottom: 1rem;
+}
+
+.play-title {
+    margin-bottom: 2rem;
 }
 
 /* Main */
