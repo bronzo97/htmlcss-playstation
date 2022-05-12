@@ -9,11 +9,8 @@
     border-bottom: 2px solid #000;
 }
 
-.card {
-    height: 100%;
-}
-
 .my-card {
+    height: 100%;
     background-color: transparent;
     border: 0;
 }

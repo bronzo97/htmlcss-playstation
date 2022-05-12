@@ -12,6 +12,11 @@
     padding: 0;
 }
 
+section,
+footer {
+    padding: 2rem 0;
+}
+
 /* Main */
 
 .bg-jumbo {
@@ -30,9 +35,22 @@
     color: #fff;
 }
 
-.col img {
+main .col img {
     width: 100%;
 }
+
+/* Playstation 5 */
+
+.ps5 .my-card {
+    text-align: center;
+    padding: .5rem;
+}
+
+.ps5 .my-card img{
+    width: 50%;
+}
+
+
 
 /* It takes two */
 
@@ -47,7 +65,6 @@
 /* New relased */
 
 .new-relased {
-    background-color: var(--middle-gray);
     color: #fff;
 }
 
@@ -55,6 +72,14 @@
 
 .p-plus {
     background-color: var(--gray);
+    position: relative;
+}
+
+.p-plus-content {
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    width: 50%;
 }
 
 /* Playstation now */
@@ -78,4 +103,14 @@
 
 footer {
     color: #fff;
+    font-size: .9rem;
+}
+
+.footer-img {
+    width: 100px;
+    margin: 1rem;
+}
+
+.globe-img {
+    width: 1rem;
 }
