@@ -1,26 +1,80 @@
 @media screen and (min-width: 576px) {
 
-    .img-lg-w20 {
+    .img-xs-w20 {
         width: 20%;
+    }
+
+    .img-xs-w40 {
+        width: 40%;
+    }
+
+    .img-xs-50 {
+        width: 50%;
+    }
+
+    .img-xs-60 {
+        width: 60%;
     }
 
 }
 
 @media screen and (min-width: 768px) {
 
-   
+    .img-sm-w20 {
+        width: 20%;
+    }
+
+    .img-sm-w40 {
+        width: 40%;
+    }
+
+    .img-sm-w50 {
+        width: 50%;
+    }
+
+    .img-sm-w60 {
+        width: 60%;
+    }
 
 }
 
 @media screen and (min-width: 992) {
 
-   
+    .img-md-w20 {
+        width: 20%;
+    }
+
+    .img-md-w40 {
+        width: 40%;
+    }
+
+    .img-md-w50 {
+        width: 20%;
+    }
+
+    .img-md-w60 {
+        width: 60%;
+    }
 
 }
 
 @media screen and (min-width: 1200px) {
 
-   
+    .img-lg-w20 {
+        width: 20%;
+    }
+
+    .img-lg-w40 {
+        width: 40%;
+    }
+
+    .img-lg-w50 {
+        width: 60%;
+    }
+
+    .img-lg-w60 {
+        width: 60%;
+    }
 
 }
 
