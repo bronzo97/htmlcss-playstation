@@ -17,6 +17,15 @@ footer {
     padding: 2rem 0;
 }
 
+h2 {
+    margin-bottom: 2rem;
+}
+
+h3,
+h4 {
+    margin-bottom: 1rem;
+}
+
 /* Main */
 
 .bg-jumbo {
@@ -72,14 +81,10 @@ main .col img {
 
 .p-plus {
     background-color: var(--gray);
-    position: relative;
 }
 
-.p-plus-content {
-    position: absolute;
-    bottom: 50px;
-    left: 50px;
-    width: 50%;
+.p-plus-content-img {
+    width: 300px;
 }
 
 /* Playstation now */
@@ -97,7 +102,10 @@ main .col img {
 
 .social img {
     width: 100px;
+    margin: .5rem;
 }
+
+
 
 /* Footer */
 
@@ -109,6 +117,10 @@ footer {
 .footer-img {
     width: 100px;
     margin: 1rem;
+}
+
+.footer-img-2 {
+    width: 150px;
 }
 
 .globe-img {
